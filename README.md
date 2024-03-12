@@ -1,2 +1,3 @@
 Mobile-first responsive navbar
-Responsive navbar by Shohruz808
+Responsive navbar by shohruzaka
+
